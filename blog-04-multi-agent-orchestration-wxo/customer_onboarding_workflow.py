@@ -112,3 +112,4 @@ class CustomerOnboardingWorkflow:
         result = await self.coordinator.execute_workflow(workflow_definition)
         
         return result
+    

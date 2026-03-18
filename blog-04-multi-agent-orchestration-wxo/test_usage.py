@@ -1,4 +1,7 @@
 # Usage example
+from typing import Dict
+import asyncio
+
 async def main():
     # Initialize components
     agent_registry = AgentRegistry()
