@@ -2,7 +2,9 @@
 ## Practical Implementation Guide for watsonx Orchestrate
 
 **Author:** Dr. Chan Naseeb 
+
 **Date:** March 2026  
+
 **Version:** 1.0
 
 ---
