@@ -55,8 +55,8 @@ from multi_agent_modules.models import AgentMetadata, AgentCapability
 ## Quick Start
 
 ```bash
-# Navigate to the directory
-cd Eminence/Technical_Guides
+# Navigate to the root directory
+
 
 # Run the modular test
 python test_modular.py
